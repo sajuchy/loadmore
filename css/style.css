@@ -1,0 +1,33 @@
+.col-lg-4{
+    display: none;
+}
+.content{
+    background-color: #eded;
+    margin: 20px;
+    transition: all .3s ease;
+    
+
+    
+}
+
+.content .img{
+    
+}
+.content .img img{
+    width: 100%;
+    
+}
+
+.con-text{
+    text-align: center;
+    
+}
+.con-text h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 20px 0;
+}
+
+.content:hover{
+    background-color: rgb(31, 224, 89);
+    transform: scale(.9);
+}
